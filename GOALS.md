@@ -1,4 +1,4 @@
-# 🏃‍♂️ Daily Goals – Red Rubber Ball Strategy
+# 🐝🏃🏿‍♂️💨⌛️🏚️💪🏿🙏🏿✝️🥇🏆🐐⚡️🥷🏿🏃🏿‍♂️Daily Goals – Red Rubber Ball Strategy
 
 Inspired by the red rubber ball — a symbol of energy, focus, and joy — this habit tracker app is designed to support consistent training and preparation for the **2026 World Masters Athletics Championships in Seoul, South Korea**.
 
