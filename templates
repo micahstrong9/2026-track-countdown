@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Red Rubber Ball Log</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        h1 { color: #d33; }
+        .log-entry { margin-bottom: 20px; }
+        .ball { font-size: 1.5rem; margin-right: 5px; }
+    </style>
+</head>
+<body>
+    <h1>📝 Daily Bounce Log</h1>
+
+    <div class="log-entry">
+        <h2>July 30</h2>
+        <p>
+            <span class="ball">🟢</span> Morning stretch + core<br>
+            <span class="ball">🔵</span> Hamstring drills<br>
+            <span class="ball">🔴</span> DRE 4×200m @ 35–26s
+        </p>
+    </div>
+
+    <div class="log-entry">
+        <h2>July 31</h2>
+        <p>
+            <span class="ball">🟢</span> Recovery walk<br>
+            <span class="ball">🔴</span> JUICE Band Hip Circuit
+        </p>
+    </div>
+
+</body>
+</html>
