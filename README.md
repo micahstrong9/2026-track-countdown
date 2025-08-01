@@ -15,8 +15,7 @@ This Python script generates a PDF countdown table for the 2026 USATF and World 
 
 ## 📅 Events Covered
 
-- 2026 USATF Masters Indoor Championships
-Convention Center
+- 2026 USATF Masters Indoor Championships Convention Center
 Alburquerque, NM
 February 19-22, 2026
 
