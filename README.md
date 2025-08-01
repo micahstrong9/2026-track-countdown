@@ -15,9 +15,19 @@ This Python script generates a PDF countdown table for the 2026 USATF and World 
 
 ## 📅 Events Covered
 
-- USATF Indoor Nationals – March 26–30, 2026 (Indianapolis, IN)
-- USATF Outdoor Nationals – July 23–26, 2026 (Geneva, OH)
-- World Masters – August 22–Sept 3, 2026 (Daegu, South Korea)
+- 2026 USATF Masters Indoor Championships
+Convention Center
+Alburquerque, NM
+February 19-22, 2026
+
+2026 USATF Masters Outdoor Championships
+Spire Institute
+Geneva, OH
+July 23-26, 2026
+
+2026 WMA Outdoor Championships - Website
+Daegu, South Korea
+August 22 - September 3, 2026
 
 ## 🚀 How to Run
 
