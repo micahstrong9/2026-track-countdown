@@ -1,4 +1,4 @@
-# 2026 Masters Track Championships Countdown
+# 2026 Beta version
 
 This Python script generates a PDF countdown table for the 2026 USATF and World Masters track and field championships, including:
 
