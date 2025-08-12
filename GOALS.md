@@ -11,6 +11,7 @@ Inspired by the red rubber ball — a symbol of energy, focus, and joy — this 
 - ✅ Foot/ankle stability & stiffness
 - ✅ Hamstring activation (NORDIC/ banded curls @ 100/200/400 reps
 - ✅ Hip stability - JUICE BAND SERIES
+- ✅ JUMP ATTACK
 - ✅ WFY workout (LEG DAY, Walk, Flex, Yoga-style flow)
 - ## 📘 Visual Legend
 
