@@ -44,7 +44,4 @@ Trained in Core Python, OOP, File Handling & Automation.
 # 🧠 Developer Certificates
 
 ### 🐍 Python Developer Course  
-**Portland Community College / Ed2Go**  
-155 Course Hours • Completed Oct 2025  
 
-📜![image](https://github.com/user-attachments/assets/42fce7e5-5c01-4c90-8208-57e26cb211ee)
