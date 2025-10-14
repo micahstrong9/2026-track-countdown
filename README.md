@@ -41,5 +41,10 @@ python countdown_table.py
 *Portland Community College / Ed2Go – Completed Oct 2025*  
 Trained in Core Python, OOP, File Handling & Automation.  
 💻 Building AI + Automation projects on GitHub.  
+# 🧠 Developer Certificates
 
-🔗 [Featured Project: 2026 Track Countdown](https://github.com/micahstrong9/2026-track-countdown)
+### 🐍 Python Developer Course  
+**Portland Community College / Ed2Go**  
+155 Course Hours • Completed Oct 2025  
+
+📜![image](https://github.com/user-attachments/assets/42fce7e5-5c01-4c90-8208-57e26cb211ee)
