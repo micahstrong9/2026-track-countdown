@@ -34,3 +34,12 @@ Use Python with `fpdf` installed:
 ```bash
 pip install fpdf
 python countdown_table.py
+
+## 🐍 Micah Strong
+
+🎓 **Python Developer Certificate (155 hrs)**  
+*Portland Community College / Ed2Go – Completed Oct 2025*  
+Trained in Core Python, OOP, File Handling & Automation.  
+💻 Building AI + Automation projects on GitHub.  
+
+🔗 [Featured Project: 2026 Track Countdown](https://github.com/micahstrong9/2026-track-countdown)
