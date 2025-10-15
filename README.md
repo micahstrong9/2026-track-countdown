@@ -44,5 +44,3 @@ Trained in Core Python, OOP, File Handling & Automation.
 # 🧠 Developer Certificates
 
 ### 🐍 Python Developer Course  
-![Python Developer Certificate](Micah%20Strong%20Recognition%20Award.jpeg)
-![Python Developer Certificate](Micah%20Strong%20Recognition%20Award.jpeg)
